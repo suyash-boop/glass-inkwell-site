@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://suyash-boop.github.io/glass-inkwell-site/sitemap.xml
